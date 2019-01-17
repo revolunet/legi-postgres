@@ -1,3 +1,5 @@
+## DEPRECATED - use https://github.com/Legilibre/legi-postgres
+
 # legi-postgres [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
 Containers [docker](<https://fr.wikipedia.org/wiki/Docker_(logiciel)>) pour [legilibre/legi.py](https://github.com/Legilibre/legi.py) :
